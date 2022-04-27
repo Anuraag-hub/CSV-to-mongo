@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 
 //var url = "mongodb+srv://admin:admin@cluster0.3ldeb.mongodb.net/raenaDB?retryWrites=true&w=majority";
 var url =
-  "mongodb+srv://raenaloyalty:8ePWhNKiGeCYQale@loyalty.n0jui.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "your mongodb url";
 
 var dbConn;
 
