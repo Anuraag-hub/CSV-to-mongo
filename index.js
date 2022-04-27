@@ -5,7 +5,6 @@ const resellers = require("./models/resellers");
 const transactions = require('./models/transactions');
 const mongoose = require("mongoose");
 
-//var url = "mongodb+srv://admin:admin@cluster0.3ldeb.mongodb.net/raenaDB?retryWrites=true&w=majority";
 var url =
   "your mongodb url";
 
